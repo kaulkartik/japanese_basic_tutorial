@@ -1,0 +1,40 @@
+section 2.1 
+[pronouns]
+	1.watashi : me
+	2.anata : you
+	3.watashitachi : we 
+
+
+section 2.2 
+	2.1.1 kono : this(yeh) 
+	2.1.2 kore (this)
+	 	| sore (that) 
+	 	| arey ( far fetched thing)
+	2.1.3 kono 
+		| sono (that)  
+	ano | 
+	dono : what/who
+
+
+section 2.3 
+
+	nani : what
+		p1. kore/{2.2} wa nan desu ka ?
+		a1. kore wa {noun} desu
+	dare : who
+		p1. kono/[2.3] hito wa dare desu ka ?
+		a1. ???
+	ikura : how much
+		p1 aano cole-dink wa ikura desuka ?
+		a1 ???
+	doko
+		p1 {Place} wa doko desuka?
+	
+---- pending -----
+dochira
+	    p1. shiken no heya wa dochira desuka?
+	itsu 
+		p1. {noun} wa itsu deska ? 
+
+
+

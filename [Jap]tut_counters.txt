@@ -1,0 +1,55 @@
+-- counters ---
+1- ichi 
+2- ni 
+3- san
+4- yon
+5- go
+6- roku
+7- nana/shichi
+8- hachi
+9- kyu
+10- ju
+100- hyaku
+1000- sen
+10000 -man
+
+kyu man : 90k
+4000 : yon sen
+300 : san byaku
+
+------ Exercise --------------
+ji : time 
+5 PM : go ji
+3 PM : san ji
+5.30 PM : gogo go ji san ju-pun
+5: 45 PM : go ji yonju gofun
+10 :00 AM : gozen ju ji
+9.30 : 9 is exception ku ji han
+
+------------------------------
+
+1 week : i-shu-kan
+  this week : kon shu
+  next week : rai shu
+  last week	: sen shu
+
+Month counters :
+
+Year Counter :
+
+last year: sakunen
+
+
+Date COunter :
+
+
+Next/Previous:
+
+Day Counters :  kyo (today)
+ashta : tomorrow
+kino : yesterday
+  
+
+
+
+

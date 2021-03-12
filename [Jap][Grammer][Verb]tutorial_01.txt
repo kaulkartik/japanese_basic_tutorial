@@ -1,0 +1,99 @@
+[ verb section / present polite ]
+
+1 ikimasu ( iku ) : going
+	p1 . {noun} ni ikimasu
+2 kimasu (kuru) : coming
+	p1 . {noun} kara kimasu
+3 shimasu (suru) : doing
+	p1. {noun} shimasu
+	denwa shimasu
+	tennis shimasu
+	application test shimasu
+4 nomimasu : drinking
+	p1. {noun} o nomimasu
+	milk :gyunyu nomimasu.
+	beef :gyuniku tabemasen
+	chicken tabamasen
+	fish{sakana} tabamasen/tabe-nai
+5 yomimasu (yomu) : reading 
+	p1. {noun} o yomimasu
+	note 0 yomimasen
+	note o yomanai
+5 mimasu : seeing
+	p1. {noun} o mimasu
+	notes o mimasen
+---------------------------------------
+[ verb section / past polite ]
+
+1 ikimashita : gone
+	p1 . {noun} ni ikimashita
+2 kimashita : came
+	p1 . {noun} kara kimashita
+3 shimashita : did 
+	p1. {noun} shimasu
+4 nomimashita : drunk
+	p1. {noun} o nomimashita
+5 yomimashita : read
+	p1. {noun} o yomimashita
+5 mimashita : saw
+	p1. {noun} o mimashita
+---------------------------------------
+[ verb section / dictinoray ]
+
+1 iku : go 
+	p1. {noun} ni iku
+2 kuru : come
+	p1. {noun} kara kuru
+3 suru: do 
+	p1. {noun}  suru
+4 nomu: drank
+	p1. {noun}  nomu
+5 yomu : read
+	p1. {noun}  yomu
+---------------------------------------
+[ verb section / Interrogatibe polite ]
+{ word meanings are same as above section}
+
+1 ikimasu
+	p1 . {noun} ni ikimas ka?
+	company : kaisha
+2 kimasu
+	p1 . {noun} kara kimas ka?
+
+3 shimasu
+	p1. {noun} shimas ka?
+	denwa shimaska ?
+4 nomimasu
+	p1. {noun} o nomimaska?
+	juice o momimaska?
+5 yomimasu
+	p1. {noun} o yomimaska?
+	book(hon) o 
+5 mimasu
+	p1. {noun} o mimaska?
+---------------------------------------
+
+[ verb section / wishinging to do something ]
+
+1 ikitai : want to go
+	p1 . {noun} ni iki tai
+	Indo ni ikitai
+2 kitai want to come
+	p1 . {noun} kara kitai
+3 shitai : want to do
+	p1. {noun} shitai
+	tennis o shitai desu
+4 nomitai want to drink
+	p1. {noun} o nomitai
+	mizu(water) o nomitai desu
+5 yomitai : want to read 
+	p1. {noun} o yomitai 
+	hon o yomitai desu
+5 mitai : want to see
+	p1. {noun} o mitai
+---------------------------------------	
+
+
+
+
+
